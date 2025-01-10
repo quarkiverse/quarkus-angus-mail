@@ -1,0 +1,9 @@
+name: Angus Mail
+description: Send emails using the Angus Mail API
+metadata:
+  keywords:
+    - mail
+  guide: https://docs.quarkiverse.io/angus-mail/dev/
+  categories:
+    - "miscellaneous"
+  status: "preview"

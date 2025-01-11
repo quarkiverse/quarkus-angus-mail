@@ -16,7 +16,7 @@
     <dependencies>
         <!-- Make sure the doc is built after the other artifacts -->
         <dependency>
-            <groupId>io.quarkiverse.angus-mail</groupId>
+            <groupId>io.quarkiverse.angusmail</groupId>
             <artifactId>quarkus-angus-mail-deployment</artifactId>
             <version>${project.version}</version>
         </dependency>

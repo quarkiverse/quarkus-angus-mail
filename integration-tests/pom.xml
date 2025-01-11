@@ -20,7 +20,7 @@
             <artifactId>quarkus-rest</artifactId>
         </dependency>
         <dependency>
-            <groupId>io.quarkiverse.angus-mail</groupId>
+            <groupId>io.quarkiverse.angusmail</groupId>
             <artifactId>quarkus-angus-mail</artifactId>
             <version>${project.version}</version>
         </dependency>

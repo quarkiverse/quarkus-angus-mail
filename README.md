@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/maven-central/v/io.quarkiverse.angus-mail/quarkus-angus-mail?logo=apache-maven&style=flat-square)](https://central.sonatype.com/artifact/io.quarkiverse.angus-mail/quarkus-angus-mail-parent)
 
-This Quarkus extension provides integration with [Angus Mail](https://eclipse-ee4j.github.io/angus-mail/) and enables native builds.
+This Quarkus extension provides integration with [Angus Mail](https://eclipse-ee4j.github.io/angus-mail/) and allows you to build native images.
 
 ## Usage
 

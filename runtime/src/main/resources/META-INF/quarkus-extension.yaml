@@ -3,7 +3,7 @@ description: An implementation of the Jakarta Mail Specification 2.1+ providing 
 metadata:
   keywords:
     - mail
-  guide: https://docs.quarkiverse.io/angus-mail/dev/
+  guide: https://docs.quarkiverse.io/quarkus-angus-mail/dev/
   categories:
     - "miscellaneous"
   status: "preview"

@@ -9,7 +9,7 @@
     </parent>
     <artifactId>quarkus-angus-mail-deployment</artifactId>
     <name>Quarkus Angus Mail - Deployment</name>
-
+    <description>Quarkus Angus Mail - Deployment</description>
     <dependencies>
         <dependency>
             <groupId>io.quarkus</groupId>

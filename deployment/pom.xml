@@ -5,7 +5,7 @@
     <parent>
         <groupId>io.quarkiverse.angusmail</groupId>
         <artifactId>quarkus-angus-mail-parent</artifactId>
-        <version>0.0.4</version>
+        <version>999-SNAPSHOT</version>
     </parent>
     <artifactId>quarkus-angus-mail-deployment</artifactId>
     <name>Quarkus Angus Mail - Deployment</name>

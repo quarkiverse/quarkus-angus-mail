@@ -9,7 +9,7 @@
     </parent>
     <groupId>io.quarkiverse.angusmail</groupId>
     <artifactId>quarkus-angus-mail-parent</artifactId>
-    <version>0.0.5</version>
+    <version>999-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Quarkus Angus Mail - Parent</name>
 
@@ -22,7 +22,7 @@
         <connection>scm:git:git@github.com:quarkiverse/quarkus-angus-mail.git</connection>
         <developerConnection>scm:git:git@github.com:quarkiverse/quarkus-angus-mail.git</developerConnection>
         <url>https://github.com/quarkiverse/quarkus-angus-mail</url>
-        <tag>0.0.5</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>

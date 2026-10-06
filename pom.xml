@@ -5,7 +5,7 @@
     <parent>
         <groupId>io.quarkiverse</groupId>
         <artifactId>quarkiverse-parent</artifactId>
-        <version>25</version>
+        <version>26</version>
     </parent>
     <groupId>io.quarkiverse.angusmail</groupId>
     <artifactId>quarkus-angus-mail-parent</artifactId>
@@ -28,7 +28,7 @@
     <properties>
         <jakarta-mail-api.version>2.1.5</jakarta-mail-api.version>
         <angus-mail.version>2.0.5</angus-mail.version>
-        <quarkus.version>3.17.6</quarkus.version>
+        <quarkus.version>4.0.0.Beta1</quarkus.version>
     </properties>
 
     <dependencyManagement>
